@@ -13,7 +13,7 @@ from email import encoders
 
 t = turtle.Turtle()
 t.shape("turtle")
-t.color('green')
+#t.color('green')
 
 
 def attend(msg="Press enter to quit."):
